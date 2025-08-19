@@ -1,0 +1,26 @@
+{
+  "summary": {
+    "generatedon": "2025-08-19T06:39:32Z",
+    "parser": "MultiReportParser (5x OpenCoverParser)",
+    "assemblies": 1,
+    "classes": 3,
+    "files": 3,
+    "coveredlines": 29,
+    "uncoveredlines": 40,
+    "coverablelines": 69,
+    "totallines": 146,
+    "linecoverage": 42,
+    "coveredbranches": 0,
+    "totalbranches": 0,
+    "coveredmethods": 7,
+    "totalmethods": 13,
+    "methodcoverage": 53.8
+ },
+  "coverage": {
+    "assemblies": [
+      { "name": "Test", "classes": 3, "coverage": 42, "coveredlines": 29, "coverablelines": 69, "totallines": 146, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 53.8, "coveredmethods": 7, "totalmethods": 13, "classesinassembly": [
+        { "name": "CheckElements", "coverage": 42.8, "coveredlines": 9, "coverablelines": 21, "totallines": 49, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 50, "coveredmethods": 2, "totalmethods": 4 },
+        { "name": "LaunchObjects", "coverage": 8.3, "coveredlines": 1, "coverablelines": 12, "totallines": 28, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 33.3, "coveredmethods": 1, "totalmethods": 3 },
+        { "name": "PlatformMovement", "coverage": 52.7, "coveredlines": 19, "coverablelines": 36, "totallines": 69, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 66.6, "coveredmethods": 4, "totalmethods": 6 } ] } ]
+  }
+}
