@@ -1384,6 +1384,22 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 7779381877309823848, guid: 2f6c4572e07a60b43b00e1c4f489a806, type: 3}
   m_PrefabInstance: {fileID: 522878755}
   m_PrefabAsset: {fileID: 0}
+--- !u!208 &157114428
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 157114427}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 2, y: 2, z: 0.097}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 2, z: 0.097}
+  m_TimeToStationary: 0.5
 --- !u!1001 &180463624
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4029,13 +4045,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3805277377165494755, guid: 220046a189ec53d4e9d8c2c88e544bff, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8080720548095950257, guid: 220046a189ec53d4e9d8c2c88e544bff, type: 3}
       propertyPath: m_Name
       value: VRExplorer
       objectReference: {fileID: 0}
     - target: {fileID: 8080720548095950262, guid: 220046a189ec53d4e9d8c2c88e544bff, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 8080720548095950262, guid: 220046a189ec53d4e9d8c2c88e544bff, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7105,6 +7125,49 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.9163016, y: 0.9166262, z: 0.9132222}
   m_Center: {x: -0.0014074445, y: 0.0011831819, z: -0.00005801022}
+--- !u!114 &680431497
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 680431491}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea063aa6194c2234cac095d8da6e035e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  triggerringEvents:
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 254571545}
+        m_TargetAssemblyTypeName: CheckElements, Test
+        m_MethodName: AddElementInSocket
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  triggerredEvents:
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 254571545}
+        m_TargetAssemblyTypeName: CheckElements, Test
+        m_MethodName: AddElementInSocket
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  triggeringTime: 0.5
 --- !u!4 &688134399 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6603488554207994483, guid: 98f5378049f9b5745a77677f581b32b1, type: 3}
@@ -15198,6 +15261,49 @@ MeshRenderer:
   m_CorrespondingSourceObject: {fileID: 9199318076177868339, guid: e37d55d9adae8724c9dcf1dff5b67578, type: 3}
   m_PrefabInstance: {fileID: 1379860601}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1379860610
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 204501879}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea063aa6194c2234cac095d8da6e035e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  triggerringEvents:
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 254571545}
+        m_TargetAssemblyTypeName: CheckElements, Test
+        m_MethodName: AddElementInSocket
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  triggerredEvents:
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 254571545}
+        m_TargetAssemblyTypeName: CheckElements, Test
+        m_MethodName: AddElementInSocket
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  triggeringTime: 0.5
 --- !u!4 &1380446367 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4616165200164398447, guid: 76f3439a0ae796e4b81bee3f91f888ee, type: 3}
@@ -21121,6 +21227,49 @@ MeshRenderer:
   m_CorrespondingSourceObject: {fileID: 9199318076177868339, guid: e37d55d9adae8724c9dcf1dff5b67578, type: 3}
   m_PrefabInstance: {fileID: 1940504553}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1940504562
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1386619014}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea063aa6194c2234cac095d8da6e035e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  triggerringEvents:
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 254571545}
+        m_TargetAssemblyTypeName: CheckElements, Test
+        m_MethodName: AddElementInSocket
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  triggerredEvents:
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 254571545}
+        m_TargetAssemblyTypeName: CheckElements, Test
+        m_MethodName: AddElementInSocket
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  triggeringTime: 0.5
 --- !u!1 &1941457309 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7779381877309823848, guid: 2f6c4572e07a60b43b00e1c4f489a806, type: 3}

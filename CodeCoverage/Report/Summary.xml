@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageReport scope="Summary">
+  <Summary>
+    <Generatedon>2025/8/19 - 12:16:33</Generatedon>
+    <Parser>MultiReportParser (7x OpenCoverParser)</Parser>
+    <Assemblies>1</Assemblies>
+    <Classes>3</Classes>
+    <Files>3</Files>
+    <Coveredlines>38</Coveredlines>
+    <Uncoveredlines>31</Uncoveredlines>
+    <Coverablelines>69</Coverablelines>
+    <Totallines>146</Totallines>
+    <Linecoverage>55</Linecoverage>
+    <Coveredbranches>0</Coveredbranches>
+    <Totalbranches>0</Totalbranches>
+    <Coveredmethods>9</Coveredmethods>
+    <Totalmethods>13</Totalmethods>
+    <Methodcoverage>69.2</Methodcoverage>
+  </Summary>
+  <Coverage>
+    <Assembly name="Test" classes="3" coverage="55" coveredlines="38" coverablelines="69" totallines="146" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="9" totalmethods="13" methodcoverage="69.2">
+      <Class name="CheckElements" coverage="100" coveredlines="21" coverablelines="21" totallines="49" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="4" totalmethods="4" methodcoverage="100" />
+      <Class name="LaunchObjects" coverage="8.3" coveredlines="1" coverablelines="12" totallines="28" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="1" totalmethods="3" methodcoverage="33.3" />
+      <Class name="PlatformMovement" coverage="44.4" coveredlines="16" coverablelines="36" totallines="69" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="4" totalmethods="6" methodcoverage="66.6" />
+    </Assembly>
+  </Coverage>
+</CoverageReport>
