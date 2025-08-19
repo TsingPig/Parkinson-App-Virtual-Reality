@@ -1016,6 +1016,36 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &77560880
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 77560868}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea063aa6194c2234cac095d8da6e035e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  triggerringEvents: []
+  triggerredEvents:
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 77560876}
+        m_TargetAssemblyTypeName: LaunchObjects, Test
+        m_MethodName: OnSelectExit
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 719088161}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.XR.Interaction.Toolkit.XRBaseInteractor,
+            Unity.XR.Interaction.Toolkit
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  triggeringTime: 0.5
 --- !u!1001 &90630748
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1791,6 +1821,36 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &200193844
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 200193833}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea063aa6194c2234cac095d8da6e035e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  triggerringEvents: []
+  triggerredEvents:
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 200193840}
+        m_TargetAssemblyTypeName: LaunchObjects, Test
+        m_MethodName: OnSelectExit
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 719088161}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.XR.Interaction.Toolkit.XRBaseInteractor,
+            Unity.XR.Interaction.Toolkit
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  triggeringTime: 0.5
 --- !u!1 &201222975
 GameObject:
   m_ObjectHideFlags: 0
@@ -2387,6 +2447,36 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &211369812
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 211369799}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea063aa6194c2234cac095d8da6e035e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  triggerringEvents: []
+  triggerredEvents:
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 211369807}
+        m_TargetAssemblyTypeName: LaunchObjects, Test
+        m_MethodName: OnSelectExit
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 719088161}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.XR.Interaction.Toolkit.XRBaseInteractor,
+            Unity.XR.Interaction.Toolkit
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  triggeringTime: 0.5
 --- !u!1001 &212455063
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4611,6 +4701,36 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &513011274
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 513011261}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea063aa6194c2234cac095d8da6e035e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  triggerringEvents: []
+  triggerredEvents:
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 513011270}
+        m_TargetAssemblyTypeName: LaunchObjects, Test
+        m_MethodName: OnSelectExit
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 719088161}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.XR.Interaction.Toolkit.XRBaseInteractor,
+            Unity.XR.Interaction.Toolkit
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  triggeringTime: 0.5
 --- !u!1001 &522878755
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6941,6 +7061,36 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &673200881
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 673200868}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea063aa6194c2234cac095d8da6e035e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  triggerringEvents: []
+  triggerredEvents:
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 673200876}
+        m_TargetAssemblyTypeName: LaunchObjects, Test
+        m_MethodName: OnSelectExit
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 719088161}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.XR.Interaction.Toolkit.XRBaseInteractor,
+            Unity.XR.Interaction.Toolkit
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  triggeringTime: 0.5
 --- !u!1001 &679101701
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7501,6 +7651,17 @@ Transform:
   m_Father: {fileID: 1017722018}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &719088161 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 2277762692239155892, guid: 220046a189ec53d4e9d8c2c88e544bff, type: 3}
+  m_PrefabInstance: {fileID: 470852918}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4253f32900bcc4d499d675566142ded0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &725979075
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8911,6 +9072,36 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &862000003
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 861999991}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea063aa6194c2234cac095d8da6e035e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  triggerringEvents: []
+  triggerredEvents:
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 861999999}
+        m_TargetAssemblyTypeName: LaunchObjects, Test
+        m_MethodName: OnSelectExit
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 719088161}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.XR.Interaction.Toolkit.XRBaseInteractor,
+            Unity.XR.Interaction.Toolkit
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  triggeringTime: 0.5
 --- !u!1001 &888255712
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9861,6 +10052,36 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &918831988
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 918831976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea063aa6194c2234cac095d8da6e035e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  triggerringEvents: []
+  triggerredEvents:
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 918831984}
+        m_TargetAssemblyTypeName: LaunchObjects, Test
+        m_MethodName: OnSelectExit
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 719088161}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.XR.Interaction.Toolkit.XRBaseInteractor,
+            Unity.XR.Interaction.Toolkit
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  triggeringTime: 0.5
 --- !u!1001 &923661406
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10240,6 +10461,36 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &927793181
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 927793169}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea063aa6194c2234cac095d8da6e035e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  triggerringEvents: []
+  triggerredEvents:
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 927793177}
+        m_TargetAssemblyTypeName: LaunchObjects, Test
+        m_MethodName: OnSelectExit
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 719088161}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.XR.Interaction.Toolkit.XRBaseInteractor,
+            Unity.XR.Interaction.Toolkit
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  triggeringTime: 0.5
 --- !u!1 &933736871 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1000013931470818, guid: 5c02591794acece409986647ed6329a7, type: 3}
@@ -10550,6 +10801,36 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &933736883
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 933736871}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea063aa6194c2234cac095d8da6e035e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  triggerringEvents: []
+  triggerredEvents:
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 933736879}
+        m_TargetAssemblyTypeName: LaunchObjects, Test
+        m_MethodName: OnSelectExit
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 719088161}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.XR.Interaction.Toolkit.XRBaseInteractor,
+            Unity.XR.Interaction.Toolkit
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  triggeringTime: 0.5
 --- !u!1001 &953347464
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12416,6 +12697,36 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &1089330548
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1089330536}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea063aa6194c2234cac095d8da6e035e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  triggerringEvents: []
+  triggerredEvents:
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1089330544}
+        m_TargetAssemblyTypeName: LaunchObjects, Test
+        m_MethodName: OnSelectExit
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 719088161}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.XR.Interaction.Toolkit.XRBaseInteractor,
+            Unity.XR.Interaction.Toolkit
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  triggeringTime: 0.5
 --- !u!1 &1093482494
 GameObject:
   m_ObjectHideFlags: 0
@@ -13221,6 +13532,36 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &1207834354
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1207834342}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea063aa6194c2234cac095d8da6e035e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  triggerringEvents: []
+  triggerredEvents:
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1207834350}
+        m_TargetAssemblyTypeName: LaunchObjects, Test
+        m_MethodName: OnSelectExit
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 719088161}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.XR.Interaction.Toolkit.XRBaseInteractor,
+            Unity.XR.Interaction.Toolkit
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  triggeringTime: 0.5
 --- !u!1 &1233998156
 GameObject:
   m_ObjectHideFlags: 0
@@ -14155,6 +14496,36 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &1298054467
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1298054455}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea063aa6194c2234cac095d8da6e035e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  triggerringEvents: []
+  triggerredEvents:
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1298054463}
+        m_TargetAssemblyTypeName: LaunchObjects, Test
+        m_MethodName: OnSelectExit
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 719088161}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.XR.Interaction.Toolkit.XRBaseInteractor,
+            Unity.XR.Interaction.Toolkit
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  triggeringTime: 0.5
 --- !u!1001 &1304923982
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16590,6 +16961,36 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &1502968067
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1502968055}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea063aa6194c2234cac095d8da6e035e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  triggerringEvents: []
+  triggerredEvents:
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1502968063}
+        m_TargetAssemblyTypeName: LaunchObjects, Test
+        m_MethodName: OnSelectExit
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 719088161}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.XR.Interaction.Toolkit.XRBaseInteractor,
+            Unity.XR.Interaction.Toolkit
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  triggeringTime: 0.5
 --- !u!1 &1519626731
 GameObject:
   m_ObjectHideFlags: 0
@@ -17283,6 +17684,36 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &1538621719
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1538621707}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea063aa6194c2234cac095d8da6e035e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  triggerringEvents: []
+  triggerredEvents:
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1538621715}
+        m_TargetAssemblyTypeName: LaunchObjects, Test
+        m_MethodName: OnSelectExit
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 719088161}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.XR.Interaction.Toolkit.XRBaseInteractor,
+            Unity.XR.Interaction.Toolkit
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  triggeringTime: 0.5
 --- !u!1 &1539339059
 GameObject:
   m_ObjectHideFlags: 0
@@ -19711,6 +20142,36 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &1756621992
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1756621980}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea063aa6194c2234cac095d8da6e035e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  triggerringEvents: []
+  triggerredEvents:
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1756621988}
+        m_TargetAssemblyTypeName: LaunchObjects, Test
+        m_MethodName: OnSelectExit
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 719088161}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.XR.Interaction.Toolkit.XRBaseInteractor,
+            Unity.XR.Interaction.Toolkit
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  triggeringTime: 0.5
 --- !u!1 &1775665193 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1000013356204050, guid: 676e107eeafc5524b97910d76516565d, type: 3}
@@ -20021,6 +20482,36 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &1775665205
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1775665193}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea063aa6194c2234cac095d8da6e035e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  triggerringEvents: []
+  triggerredEvents:
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1775665201}
+        m_TargetAssemblyTypeName: LaunchObjects, Test
+        m_MethodName: OnSelectExit
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 719088161}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.XR.Interaction.Toolkit.XRBaseInteractor,
+            Unity.XR.Interaction.Toolkit
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  triggeringTime: 0.5
 --- !u!1 &1778502606
 GameObject:
   m_ObjectHideFlags: 0
